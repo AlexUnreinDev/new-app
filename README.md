@@ -1,2 +1,1 @@
-# ip-grabber
-An open source IP Grabber
+# IP Grabber
